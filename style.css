@@ -16,12 +16,11 @@ img {
 }
 
 nav {
-
   background: gray;
 }
-/*a {
-  float: none;
+nav a {
+  display: inline-block;
   position: absolute;
   padding-left: 10px;
   padding-right: 10px;
-}*/
+}
