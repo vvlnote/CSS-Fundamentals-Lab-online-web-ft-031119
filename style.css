@@ -53,4 +53,5 @@ figcaption {
   margin-inline-end: auto;
   background: red;
   padding: 0;
+  width:auto;
 }
