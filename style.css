@@ -18,6 +18,7 @@ img {
 nav {
   background: gray;
    display: inline-block;
+   color: white;
 }
 /*nav a {
   display: inline-block;
