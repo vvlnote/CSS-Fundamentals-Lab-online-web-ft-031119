@@ -37,4 +37,5 @@ figcaption {
 #featured-property  p {
   color: red;
   align: center;
+  width: 900px;
 }
