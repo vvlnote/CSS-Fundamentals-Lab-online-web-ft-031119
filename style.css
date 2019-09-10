@@ -17,7 +17,7 @@ img {
 
 nav {
    background: gray;
-   display: inline-block;
+   display: inline;
    margin-left: 0;
    margin-right: 0;
    justify-content:center;
