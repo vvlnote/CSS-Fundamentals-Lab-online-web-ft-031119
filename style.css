@@ -41,11 +41,11 @@ figcaption {
   margin-inline-end: auto;
 }
 
-#details {
+/*#details {
   display: block;
   margin-left: 0px;
   margin-right: 0px;
-}
+}*/
 
 #details  div {
   float: left;
