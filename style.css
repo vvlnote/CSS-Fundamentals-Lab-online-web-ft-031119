@@ -36,6 +36,8 @@ figcaption {
 
 #featured-property  p {
   color: red;
-  align: center;
+  text-align: center;
   width: 900px;
+  padding-right: auto;
+  padding-left: auto;
 }
