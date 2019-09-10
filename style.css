@@ -51,6 +51,6 @@ figcaption {
   float: left;
   background: red;
   padding: 0;
-  text-align: left;
+  text-align: right;
   width: 25%;
 }
