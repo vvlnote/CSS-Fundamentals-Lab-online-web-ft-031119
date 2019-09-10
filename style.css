@@ -44,7 +44,7 @@ figcaption {
 #details {
   display: block;
   align: center;
-  background: red;
+  background-color: red;
   margin-inline-start: auto;
   margin-inline-end: auto;
 }
