@@ -42,5 +42,6 @@ figcaption {
 }
 
 #details {
+  display: inline-block;
   background: red;
 }
