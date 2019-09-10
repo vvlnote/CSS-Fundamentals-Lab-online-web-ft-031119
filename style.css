@@ -38,4 +38,6 @@ figcaption {
   width: 900px;
   padding-right: auto;
   padding-left: auto;
+      margin-inline-start: auto;
+      
 }
