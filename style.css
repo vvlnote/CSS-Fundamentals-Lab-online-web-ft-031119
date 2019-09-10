@@ -16,7 +16,8 @@ img {
 }
 
 nav {
-
+  
+  background: gray;
 }
 a {
   float: none;
