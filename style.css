@@ -33,3 +33,7 @@ figcaption {
   text-align: center;
   font-size: 80%;
 }
+
+section p {
+  align: center;
+}
