@@ -34,7 +34,7 @@ figcaption {
   font-size: 80%;
 }
 
-#featured-property  p {
+#featured-property > p {
   color: red;
   text-align: center;
   width: 900px;
