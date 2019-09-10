@@ -48,7 +48,7 @@ figcaption {
   float: left;
 }
 
-#details > div {
+#details div {
   display: inline-block;
   margin-inline-start: auto;
   margin-inline-end: auto;
