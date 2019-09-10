@@ -17,10 +17,11 @@ img {
 
 nav {
   background: gray;
+   display: inline-block;
 }
-nav a {
+/*nav a {
   display: inline-block;
   position: absolute;
   padding-left: 10px;
   padding-right: 10px;
-}
+}*/
