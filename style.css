@@ -49,7 +49,7 @@ figcaption {
 
 #details  div {
   display: inline-block;
-  align-items: center;
+  align: center;
   margin-inline-start: auto;
   margin-inline-end: auto;
 }
