@@ -15,9 +15,12 @@ img {
   margin-right: auto;
 }
 
+nav {
+
+}
 a {
   float: none;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
