@@ -49,8 +49,6 @@ figcaption {
 
 #details  div {
   float: left;
-  margin-inline-start: auto;
-  margin-inline-end: auto;
   background: red;
   padding: 0;
   width:auto;
