@@ -47,7 +47,6 @@ figcaption {
 }
 
 #details  div {
-  display: inline-block;
   align: center;
   float: left;
   margin-inline-start: auto;
