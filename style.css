@@ -28,3 +28,7 @@ nav a {
   background: lightgray;
   color: blue;
 }
+
+figcaption {
+  text-align: center;
+}
